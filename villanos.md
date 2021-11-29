@@ -5,3 +5,4 @@
 3. flash  reverso
 4. doomsday
 
+# notas:
